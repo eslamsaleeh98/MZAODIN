@@ -4,4 +4,3 @@
 ![home.jpg](home.jpg).
 ![details.jpg](details.jpg).
 ![profile.jpg](profile.jpg).
-
